@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Eduardo Nin Vera an undergraduate student of economics at UNMSM (Peru).  
+- 👋 Hi, I’m Eduardo Nin Vera an undergraduate student of international economics at UNMSM (Peru).  
 - 👀 I’m interested in how to make our world a better place through economic research.
 - 🌱 I’m currently learning Matlab and Chinese. 
 - 💞️ I’m looking to collaborate on whatever research related on development or international economics.
